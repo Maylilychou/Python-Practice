@@ -1,2 +1,2 @@
 # Python codes
-Python codes with basic math and signal processing algorithms.
+Basic DSP branch: application of basic DSP algorithms using python.
