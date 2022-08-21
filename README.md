@@ -1,2 +1,2 @@
 # Python codes
-Python codes with basic math and signal processing algorithms.
+Python codes with basic digital signal processing algorithms.
