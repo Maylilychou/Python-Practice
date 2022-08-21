@@ -1,2 +1,2 @@
-# Python-Practice
+# Python codes
 Python codes with basic math and signal processing algorithms.
